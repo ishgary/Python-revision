@@ -20,3 +20,4 @@ print(firstName * 5)
 print(firstName[2]) # this is to check character index of the string 
 print(firstName[2:5])
 print(len('aksjdhkahd'))
+# this justa comment for git apporval
